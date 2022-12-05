@@ -1,7 +1,4 @@
-# Proyecto Curso de Next.JS de Platzi
-
-Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
-
+# Proyecto Curso nextjs con typescript
 ### 🚀 Logros
 
 1. Creación del proyecto
@@ -27,4 +24,3 @@ Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para
 
     El sitio estará disponible en http://localhost:3000.
 
-    Happy hacking!
